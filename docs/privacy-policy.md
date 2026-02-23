@@ -50,4 +50,4 @@ Users can:
 
 ## Contact
 
-For privacy questions, contact: [ADD YOUR EMAIL ADDRESS]
+For privacy questions, contact: contato@brunocasado.me
